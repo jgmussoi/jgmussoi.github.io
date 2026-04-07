@@ -31,8 +31,13 @@ footer:
 social:
   - title: Bluesky
     url: https://bsky.app/profile/jgmussoi.bsky.social
+    icon: /img/icons/icons/bluesky.svg
   - title: Google Scholar
     url: https://scholar.google.com/citations?user=zmwkAOUAAAAJ&hl=en
+    icon: /img/icons/icons/googlescholar.svg
+ - title: ORCID
+    url: https://orcid.org/0000-0002-2873-9734
+    icon: /img/icons/icons/orcid.svg
   - title: Linkedin
     url: https://www.linkedin.com/in/juliane-gaviraghi-mussoi-05683071/
 
