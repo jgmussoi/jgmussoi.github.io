@@ -499,3 +499,17 @@ footer .footer-below {
   top: -120px;
 }
 
+.btn-social.btn-outline {
+  border: none;
+  background: none;
+}
+
+.btn-social.btn-outline:hover,
+.btn-social.btn-outline:focus,
+.btn-social.btn-outline:active {
+  border: none;
+  background: none;
+  color: #fff; /* keeps icon visible */
+}
+``
+
