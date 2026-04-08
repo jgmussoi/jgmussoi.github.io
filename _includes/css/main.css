@@ -493,3 +493,9 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
+#about {
+  display: block;
+  position: relative;
+  top: -120px;
+}
+
