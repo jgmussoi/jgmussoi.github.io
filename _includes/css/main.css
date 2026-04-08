@@ -86,6 +86,11 @@ header {
     background: #{{ site.color.primary }};
 }
 
+section.success a {
+  color: #B30952;
+  text-decoration: underline;
+}
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
