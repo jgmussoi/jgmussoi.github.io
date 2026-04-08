@@ -86,7 +86,7 @@ header {
     background: #{{ site.color.primary }};
 }
 
-section.success a {
+header.success a {
   color: #B30952;
   text-decoration: underline;
 }
