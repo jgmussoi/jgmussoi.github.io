@@ -38,8 +38,9 @@ social:
   - title: ORCID
     url: https://orcid.org/0000-0002-2873-9734
     icon: img/img/icons/orcid.svg
-  - title: linkedin-square
+  - title: linkedin
     url: https://www.linkedin.com/in/juliane-gaviraghi-mussoi-05683071/
+    icon: img/img/icons/linkedin.svg
 
 
 # Build settings
